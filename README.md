@@ -1,4 +1,4 @@
-# Files for CPSC457 Assignment 1
+# Starter code for CPSC457 Assignment 1
 You can compile the C++ code by running:
 
 ```
