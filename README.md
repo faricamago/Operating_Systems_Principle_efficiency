@@ -33,7 +33,8 @@ repeat the input data, until N bytes are generated. Example:
 
 ```
 $ echo "hello." | ./dup.py 10
-hello.  hel
+hello.
+hel
 ```
 
 Here is an example of how to feed 2GB of data to your program, generated
